@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) 
 ![NASM](https://img.shields.io/badge/NASM-0066CC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## избранные проекты
 [NetCore](https://github.com/Th4F0x/NetCore) - проходит основная работа, временно закрыт, будет отрыт после того когда решу что с ним делать дальше будет разделён на 3 репозитория и 1 объясняющий.
